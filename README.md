@@ -44,7 +44,7 @@ defaults write com.onmyway133.FinderGo terminal Hyper
 Check for `System Preferences` -> `Extensions` -> `Finder` to enable `FinderGo` if it is not enabled yet
 
 ## Credits
-Base on [Khoa Pham, onmyway133's work](https://github.com/onmyway133/FinderGo).  
+Base on [Khoa Pham, onmyway133's FinderGo](https://github.com/onmyway133/FinderGo), and [reactuserakash's terminal-icons](https://github.com/dhanishgajjar/terminal-icons)
 
 The background image is using [entisocial's PSD](https://entisocial.wordpress.com/2016/03/28/custom-droplet-for-el-capitans-finders-toolbar/) and converted to Pixelmater file in the images folder.
 
